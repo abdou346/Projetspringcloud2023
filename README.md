@@ -187,19 +187,19 @@
 # V. Docker :
 
 ## Billing service 
-![image](https://user-images.githubusercontent.com/101510983/219879092-282bb834-042e-4f65-9d6b-4c2fb7de907a.png)
+![image](https://user-images.githubusercontent.com/101510983/219879630-0f16b73b-78e1-4b1b-be5f-9109ca7d4a80.png)
 ## Inventory service
 ![image](https://user-images.githubusercontent.com/73041687/219698461-5131e970-68b0-4978-a159-a0c628cdb856.png)
 
 ![image](https://user-images.githubusercontent.com/73041687/219706814-b5b679ad-30b0-4848-a57c-743ddd0b2798.png)
 ## Customer service
-![image](https://user-images.githubusercontent.com/101510983/219879121-1e19a1ac-918a-4aba-97b0-1f2d4998d074.png)
+![image](https://user-images.githubusercontent.com/101510983/219879619-8c67518f-0789-42eb-b5f0-d19b7f42ba25.png)
 ## gateway service
-![image](https://user-images.githubusercontent.com/101510983/219879138-39c2db05-48b4-45a5-bf4a-12454b222c31.png)
+![image](https://user-images.githubusercontent.com/101510983/219879605-e4500dbc-edf4-41b5-9987-dd0146ddc2c1.png)
 ## Eureka discovery
-![image](https://user-images.githubusercontent.com/101510983/219879150-9c7b7f41-869d-4606-8738-97669a50a05f.png)
+![image](https://user-images.githubusercontent.com/101510983/219879578-8ab5f652-377b-4e84-99f3-acf4ce5dd94a.png)
 ## Frontend catalog
-![image](https://user-images.githubusercontent.com/101510983/219879165-ceadf4fe-d301-4c64-87a7-e45b51a16b5a.png)
+![image](https://user-images.githubusercontent.com/101510983/219879557-9b870754-25b7-4c03-b60c-466f01ea9d8b.png)
 
 
 
